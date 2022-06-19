@@ -71,4 +71,4 @@ The source codes of programs which compute prefix and postfix expression and whi
 -> <a href="https://github.com/recep-yildirim/Data-Structures/blob/master/Trees/Traversal%20Algorithms/preorder.py">**Preorder Traversal Algorithm**</a> implementation. <br/>
 -> <a href="https://github.com/recep-yildirim/Data-Structures/blob/master/Trees/Traversal%20Algorithms/inorder.py">**Inorder Traversal Algorithm**</a> implementation. <br/>
 -> <a href="https://github.com/recep-yildirim/Data-Structures/blob/master/Trees/Traversal%20Algorithms/postorder.py">**Postorder Traversal Algorithm**</a> implementation. <br/>
--> <a href="https://github.com/recep-yildirim/Data-Structures/blob/master/Trees/Binary%20Search%20Trees/binarySearchTree.py">**Binary Search Tree**</a> implementation. <br/>
+-> <a href="https://github.com/recep-yildirim/Data-Structures/blob/master/Trees/Binary%20Search%20Tree/binarySearchTree.py">**Binary Search Tree**</a> implementation. <br/>
